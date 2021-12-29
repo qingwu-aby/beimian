@@ -1,0 +1,3 @@
+[submodule "wuxian"]
+	path = wuxian
+	url = git@github.com:qingwu-aby/wuxian.git
